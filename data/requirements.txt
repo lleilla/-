@@ -1,0 +1,5 @@
+pygame
+sys
+os
+random
+# в терминале написать "pip install -r requirements.txt"
